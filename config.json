@@ -1,6 +1,6 @@
 {
-  "domain_name": "${YOUR_DOMAIN_HERE}",
+  "domain_name": "k8s.innominds.com",
   "fabric_availability_zones": [],
-  "fabric_name": "example",
-  "fabric_region": "us-east-2"
+  "fabric_name": "innok8s",
+  "fabric_region": "us-west-1"
 }
