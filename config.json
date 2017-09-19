@@ -2,5 +2,5 @@
   "domain_name": "k8s.innominds.com",
   "fabric_availability_zones": [],
   "fabric_name": "innok8s",
-  "fabric_region": "us-west-1"
+  "fabric_region": "us-west-2"
 }
